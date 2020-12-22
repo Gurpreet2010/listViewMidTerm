@@ -1,2 +1,2 @@
-rootProject.name='midtermCustomlistView'
 include ':app'
+rootProject.name = "MidTermFinalProject"
